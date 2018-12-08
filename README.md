@@ -102,7 +102,7 @@ Recent improvements are highlighted in the release notes
 ## 参与翻译 & 发现错误
 
     1. 在 github 上 fork 该 repository.
-    2. 翻译 doc/zh/source 或者根目录 下面的 rst或txt 文件即可, 例如, gettingstarted.rst.
+    2. 翻译 docs/zh/source 或者根目录 下面的 rst或txt 文件即可, 例如, gettingstarted.rst.
     3. 然后, 在你的 github 发起 New pull request 请求.
 
 ## 角色分配
