@@ -1,13 +1,9 @@
-Getting started
+入门
 ===============
 
-This very simple case-study is designed to get you up-and-running quickly with
-``statsmodels``. Starting from raw data, we will show the steps needed to
-estimate a statistical model and to draw a diagnostic plot. We will only use
-functions provided by ``statsmodels`` or its ``pandas`` and ``patsy``
-dependencies.
+这个非常简单的案例用来使你快速地上手 ``statsmodels`` 。我们将从原始数据开始，一步一步地教你使用这个库来估计一个统计模型和绘制诊断图。 我们将只使用 ``statsmodels`` 或 ``pandas``, ``patsy`` 提供的函数。
 
-Loading modules and functions
+导入模块和函数
 -----------------------------
 
 After `installing statsmodels and its dependencies <install.html>`_, we load a
